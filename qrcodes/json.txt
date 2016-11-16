@@ -1,0 +1,1 @@
+{"Magasin": "Carrefour","Lieu": "Bordeaux","Caisse": "caisse 14","Date": "03/1/2016","Message": "Bienvenue","Produits": [{"Produit":"pain","Prix":2,"Qte":1},{"Produit":"lait","Prix":3,"Qte":1}],"Total": "5","NumeroTicket": "6306"}
